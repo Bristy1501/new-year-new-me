@@ -92,7 +92,7 @@
 }
 
 .background {
-    background: rgba(241, 93, 34, 0);
+    background: rgba(241, 91, 34, 0.20);
     /* background-size: 50% auto; */
     position: absolute;
     top: 157px;
